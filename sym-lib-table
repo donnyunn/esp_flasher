@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ESP32-WROOM-32D)(type Legacy)(uri C:/Users/donny/rotom/stroller/hwspace/controller_v0.1/ESP32-WROOM-32D.lib)(options "")(descr ""))
+  (lib (name EPK389MK)(type Legacy)(uri C:/Users/donny/rotom/stroller/hwspace/controller_v0.1/EPK389MK.lib)(options "")(descr ""))
+  (lib (name MAX17048G_T10)(type Legacy)(uri C:/Users/donny/rotom/stroller/hwspace/controller_v0.1/MAX17048G_T10.lib)(options "")(descr ""))
+)
